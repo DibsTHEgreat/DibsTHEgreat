@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a 4th-year Computer Science & General Management Student at the University of Lethbridge. Checkout my personal portfolio to learn more: https://divyacodes.com/ <br>🌱 I’m currently learning more about Artificial Intelligence, Data Science/Analytics and Software Engineering.<br>💼 I’m looking for an Internship or a Co-op.<br>💬 Knowledgeable in C++, SQL, and Python.<br> 📫 How to reach me: pateliyandivya@gmail.com
+🔭 I’m currently a 4th-year Computer Science & Business Management Student at the University of Lethbridge. Checkout my personal portfolio to learn more about me: https://divyacodes.com/ <br>🌱 I’m currently learning more about Artificial Intelligence, Data Science/Analytics and Software Engineering.<br>💼 I’m looking for an Internship or a Co-op.<br>💬 Knowledgeable in C++, SQL, and Python.<br> 📫 How to reach me: pateliyandivya@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DibsTHEgreat&theme=dark&hide_border=false)<br/>
