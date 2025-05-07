@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Divya Pateliya
 
-🔭 Final-year **Computer Science & Business Management** student with a minor in **Mathematics** at the University of Lethbridge, graduating in December 2025. I bring **14 months of professional experience** in full-stack development and systems integration, with a strong focus on delivering business-driven software solutions. Passionate about bridging the gap between technology and strategy through clean, scalable code and data-informed decision-making.
+Final-year **Computer Science & Business Management** student with a minor in **Mathematics** at the University of Lethbridge, graduating in December 2025. I bring **14 months of professional experience** in full-stack development and systems integration, with a strong focus on delivering business-driven software solutions. Passionate about bridging the gap between technology and strategy through clean, scalable code and data-informed decision-making.
 
 💼 Currently a **Systems Developer Intern** at **Canadian Natural Resources Limited (CNRL)**  
 
