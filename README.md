@@ -3,15 +3,14 @@
 🔭 I’m a 5th-year **Computer Science & Business Management** student with a minor in **Mathematics** at the University of Lethbridge.  
 💼 Currently a **Systems Developer Intern** at **Canadian Natural Resources Limited (CNRL)**  
 🌐 Checkout my [personal portfolio](https://divyacodes.com/) to learn more about me!  
-🌱 I’m currently exploring **Artificial Intelligence**, **Data Science/Analytics**, and **Software Engineering**  
-💬 Languages I enjoy working with: **C++**, **C#**, and **Python**  
+🌱 I’m currently exploring **Data Engineering**, **Mobile Development (Flutter/Dart)**, and deepening my skills in **.NET Software Development**.
 📫 Reach me at: **pateliyandivya@gmail.com**
 
 ---
 
 ### 🎯 Actively Seeking
 
-I’m currently pursuing **Junior Software Developer** and **Business Analyst** roles for **January 2026**.  
+I’m currently pursuing **Junior Software Developer** and **Junior Business Analyst** roles for **January 2026**.  
 I’m also **eligible for Fall 2025 internships**, as I convocate in **May 2026**.
 
 ---
