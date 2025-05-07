@@ -4,9 +4,9 @@
 
 💼 Currently a **Systems Developer Intern** at **Canadian Natural Resources Limited (CNRL)**  
 
-🌐 Checkout my [personal portfolio](https://divyacodes.com/) to learn more about me!  
-
 🌱 I’m currently exploring **Data Engineering**, **Mobile Development (Flutter/Dart)**, and deepening my skills in **.NET Software Development**.
+
+🌐 Checkout my [personal portfolio](https://divyacodes.com/) to learn more about me!  
 
 📫 Reach me at: **pateliyandivya@gmail.com**
 
