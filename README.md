@@ -1,11 +1,20 @@
-# 💫 About Me:
+# 👋 Hi there! I'm Divya Pateliya
 
-🔭 I’m currently a 5th-year Computer Science & Business Management Student with a minor in Mathematics at the University of Lethbridge.
-<br>💼 Systems Developer Intern @ Canadian Natural Resources Limited (CNRL)
-<br>🔍 Checkout my personal portfolio to learn more about me: https://divyacodes.com/ 
-<br>🌱 I’m currently learning more about Artificial Intelligence, Data Science/Analytics, and Software Engineering.
-<br>💬 Knowledgeable in C++, C#, and Python.
-<br> 📫 How to reach me: pateliyandivya@gmail.com
+🔭 I’m a 5th-year **Computer Science & Business Management** student with a minor in **Mathematics** at the University of Lethbridge.  
+💼 Currently a **Systems Developer Intern** at **Canadian Natural Resources Limited (CNRL)**  
+🌐 Checkout my [personal portfolio](https://divyacodes.com/) to learn more about me!  
+🌱 I’m currently exploring **Artificial Intelligence**, **Data Science/Analytics**, and **Software Engineering**  
+💬 Languages I enjoy working with: **C++**, **C#**, and **Python**  
+📫 Reach me at: **pateliyandivya@gmail.com**
+
+---
+
+### 🎯 Actively Seeking
+
+I’m currently pursuing **Junior Software Developer** and **Business Analyst** roles for **January 2026**.  
+I’m also **eligible for Fall 2025 internships**, as I convocate in **May 2026**.
+
+---
 
 
 # 📊 GitHub Stats:
