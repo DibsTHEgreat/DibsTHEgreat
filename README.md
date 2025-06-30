@@ -15,6 +15,7 @@ Final-year **Computer Science & Business Management** student with a minor in **
 ### 🎯 Actively Seeking
 
 I’m currently pursuing **Software Developer** and **Business Analyst** roles for **January 2026**.  
+
 ---
 
 # 📊 GitHub Stats:
