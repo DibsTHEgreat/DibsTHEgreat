@@ -14,11 +14,8 @@ Final-year **Computer Science & Business Management** student with a minor in **
 
 ### 🎯 Actively Seeking
 
-I’m currently pursuing **Junior Software Developer** and **Junior Business Analyst** roles for **January 2026**.  
-I’m also **eligible for Fall 2025 internships**, as I convocate in **May 2026**.
-
+I’m currently pursuing **Software Developer** and **Business Analyst** roles for **January 2026**.  
 ---
-
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=DibsTHEgreat&theme=dark&hide_border=false)<br/>
